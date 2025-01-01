@@ -1,0 +1,14 @@
+How To Hack Wifi WPA,WPA2,WPA2 PSK  in Tremux Wi-Fi All Hacking Tool Install
+
+[Type the Command 👇 Tab to Copy]
+
+apt update && apt upgrade -y
+apt install git
+apt install python2
+git clone https://github.com/derv82/wifite.git
+cd wifite
+python2 wifite.py       [open first page]
+
+git clone https://github.com/derv82/wifite2
+cd wifite2
+python2 Wifite.py
